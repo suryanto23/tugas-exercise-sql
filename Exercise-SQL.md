@@ -1,5 +1,5 @@
 
-Soal 1. Tampilkan semua Customer yang tinggal di Negara German atau Mexico
+Soal 1. Tampilkan semua Customer yang tinggal di Negara German atau Mexico<br>
 SELECT * FROM Customers;
 WHERE Country='Mexico' OR Country='Germany'
 
